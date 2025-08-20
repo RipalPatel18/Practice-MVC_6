@@ -1,0 +1,19 @@
+﻿<h1>Welcome to the SummerStore!</h1>
+<p> This is a store for selling sweet treats</p>
+
+@{
+
+	string StoreOwner ="Ripal";
+	DateTime Today = DateTime.Now;
+	string orderurl = "/SummerStore/Order";
+	String className = "C#";
+
+}
+
+
+<p>The store owner is @StoreOwner. The current year is @Today.ToString("yyyy-MM-dd:h") </p>
+<a href="/SummerStore/Order">Buy Summer Treats now!</a>
+
+<script>
+	//alert("@className")
+</script>

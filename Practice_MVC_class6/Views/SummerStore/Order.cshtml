@@ -1,0 +1,30 @@
+﻿
+<h2> Summer Store Popsicles Flavours!</h2>
+
+<form method="post" action="/SummerStore/CheckOut">
+
+	<div>
+		<label for="CustomerName">Name: </label>
+		<input type="text" name="CustomerName" id="CustomerName" />
+	</div>
+
+	<div>
+		<label for="NumPopscicles">Popscicles: </label>
+		<input type="number" name="NumPopscicles" id="NumPopscicles" />
+	</div>
+	<label for="Popscicles Flavour">Popscicles Flavour</label>
+	<select name="IceCreamFlavour" id="IceCreamFlavour">
+		<option value="Chocolate">Chocolate</option>
+		<option value="Vanilla">Vanilla</option>
+		<option value="Strawberry">Strawberry</option>
+		<option value="Mango">Mango</option>
+		<option value="Mint">Mint</option>
+		<option value="Lemon">Lemon</option>
+		<option value="Blueberry">Blueberry</option>
+	</select>
+
+	<div>
+		<input type="submit" value="Order Now"/>
+	</div>
+
+</form>
