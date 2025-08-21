@@ -32,3 +32,4 @@ C:\Users\ripal\source\repos\Practice_MVC_class6\Practice_MVC_class6\obj\Debug\ne
 C:\Users\ripal\source\repos\Practice_MVC_class6\Practice_MVC_class6\obj\Debug\net8.0\Practice_MVC_class6.pdb
 C:\Users\ripal\source\repos\Practice_MVC_class6\Practice_MVC_class6\obj\Debug\net8.0\Practice_MVC_class6.genruntimeconfig.cache
 C:\Users\ripal\source\repos\Practice_MVC_class6\Practice_MVC_class6\obj\Debug\net8.0\ref\Practice_MVC_class6.dll
+C:\Users\ripal\source\repos\Practice_MVC_class6\Practice_MVC_class6\obj\Debug\net8.0\Practice_MVC_class6.sourcelink.json

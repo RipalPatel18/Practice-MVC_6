@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\summerstore\\adminorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\summerstore\\adminorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\controllers\\summerstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\controllers\\summerstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\summerstore\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\summerstore\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\models\\popsciclesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\models\\popsciclesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\summerstore\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\summerstore\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\summerstore\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\summerstore\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|c:\\users\\ripal\\source\\repos\\practice_mvc_class6\\practice_mvc_class6\\views\\summerstore\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5481282-3B37-4272-B0CE-B72B82A9FD45}|Practice_MVC_class6\\Practice_MVC_class6.csproj|solutionrelative:practice_mvc_class6\\views\\summerstore\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AdminOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\AdminOrders.cshtml",
+              "RelativeDocumentMoniker": "Practice_MVC_class6\\Views\\SummerStore\\AdminOrders.cshtml",
+              "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\AdminOrders.cshtml",
+              "RelativeToolTip": "Practice_MVC_class6\\Views\\SummerStore\\AdminOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T21:43:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PopsciclesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Models\\PopsciclesOrder.cs",
+              "RelativeDocumentMoniker": "Practice_MVC_class6\\Models\\PopsciclesOrder.cs",
+              "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Models\\PopsciclesOrder.cs",
+              "RelativeToolTip": "Practice_MVC_class6\\Models\\PopsciclesOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:13:25.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CheckOut.cshtml",
               "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\CheckOut.cshtml",
               "RelativeDocumentMoniker": "Practice_MVC_class6\\Views\\SummerStore\\CheckOut.cshtml",
               "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\CheckOut.cshtml",
               "RelativeToolTip": "Practice_MVC_class6\\Views\\SummerStore\\CheckOut.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T19:55:13.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Order.cshtml",
               "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\Order.cshtml",
               "RelativeDocumentMoniker": "Practice_MVC_class6\\Views\\SummerStore\\Order.cshtml",
               "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\Order.cshtml",
               "RelativeToolTip": "Practice_MVC_class6\\Views\\SummerStore\\Order.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowB0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T19:37:19.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Practice_MVC_class6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Practice_MVC_class6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T19:05:32.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "Practice_MVC_class6\\Views\\SummerStore\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Views\\SummerStore\\Welcome.cshtml",
-              "RelativeToolTip": "Practice_MVC_class6\\Views\\SummerStore\\Welcome.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T18:11:14.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SummerStoreController.cs",
               "DocumentMoniker": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Controllers\\SummerStoreController.cs",
               "RelativeDocumentMoniker": "Practice_MVC_class6\\Controllers\\SummerStoreController.cs",
               "ToolTip": "C:\\Users\\ripal\\source\\repos\\Practice_MVC_class6\\Practice_MVC_class6\\Controllers\\SummerStoreController.cs",
               "RelativeToolTip": "Practice_MVC_class6\\Controllers\\SummerStoreController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T18:03:40.911Z",
               "EditorCaption": ""
